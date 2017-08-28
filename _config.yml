@@ -1,8 +1,12 @@
 # Site settings 配置站点
-title: '廖柯宇的独立博客'
-description: '昵称悟空，千禧一代，前端开发者/伪极客/灵魂摄影师，热爱技术&设计。很高兴能在这里与你分享我对技术和生活的思考。'
-keyword: '廖柯宇, 廖柯宇的独立博客, 廖柯宇的博客, 前端, 前端开发, 前端博客, javascript, vuejs, nodejs, 设计'
-url: 'http://liaokeyu.com' # your host
+#title: '廖柯宇的独立博客'
+title: 'Jacobwan Blog'
+#description: '昵称悟空，千禧一代，前端开发者/伪极客/灵魂摄影师，热爱技术&设计。很高兴能在这里与你分享我对技术和生活的思考。'
+description: '向之所欣，俯仰之间，已为陈迹。'
+#keyword: '廖柯宇, 廖柯宇的独立博客, 廖柯宇的博客, 前端, 前端开发, 前端博客, javascript, vuejs, nodejs, 设计'
+keyword: 'Python, NODE, Appium'
+#url: 'http://liaokeyu.com' # your host
+url: 'wanzhaoliang.top' # your host
 baseurl: '/'
 
 # Navigation links
@@ -11,9 +15,13 @@ nav:
   tags: '/tags.html'
 
 # Author 配置博主信息
-author: '廖柯宇'
-nickname: '悟空'
-bio: '前端开发者，热爱技术&设计，简单乐观爱创造'
+#author: '廖柯宇'
+#nickname: '悟空'
+#bio: '前端开发者，热爱技术&设计，简单乐观爱创造'
+#avatar: 'assets/img/profile.png'
+author: '作者万召亮'
+nickname: '昵称laowan'
+bio: '个人简介：无'
 avatar: 'assets/img/profile.png'
 
 # Search
@@ -42,7 +50,15 @@ sns:
   juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
   instagram: '//www.instagram.com/steveliaocn'
   github: '//github.com/kaeyleo'
-
+sns:
+49
+  weibo: '//weibo.com/lovecolcol'
+50
+  juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
+51
+  instagram: '//www.instagram.com/steveliaocn'
+52
+  github: '//github.com/kaeyleo'
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
 recommend-condition-size: 12 # a tag will be recommended if the size of it is more than this value
