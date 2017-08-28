@@ -47,13 +47,9 @@ sns:
   instagram: '//www.instagram.com/steveliaocn'
   github: '//github.com/kaeyleo'
 sns:
-49
   weibo: '//weibo.com/lovecolcol'
-50
   juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
-51
   instagram: '//www.instagram.com/steveliaocn'
-52
   github: '//github.com/kaeyleo'
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
