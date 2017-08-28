@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: '网站标题Jacobwan Blog'
-description: '站点描述：向之所欣，俯仰之间，已为陈迹。'
-keyword: '网站关键字, Python, NODE, Appium'
+title: 'Jacobwan Blog'
+description: '向之所欣，俯仰之间，已为陈迹。'
+keyword: 'Python, NODE, Appium'
 url: 'wanzhaoliang.top'
 baseurl: '/'
 
@@ -15,9 +15,9 @@ nav:
 #nickname: '悟空'
 #bio: '前端开发者，热爱技术&设计，简单乐观爱创造'
 #avatar: 'assets/img/profile.png'
-author: '作者万召亮'
-nickname: '昵称laowan'
-bio: '个人简介：无'
+author: '万召亮'
+nickname: 'laowan'
+bio: '欣于所遇，暂得于己'
 avatar: 'assets/img/profile.png'
 
 # Search
