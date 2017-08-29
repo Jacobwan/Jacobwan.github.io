@@ -5,7 +5,7 @@ subtitle:'first blog'
 date: 2017-08-29
 categories: 技术
 cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-postcover.jpg'
-tags: jekyll 前端开发 设计
+tags: tag1 tag2 tag3
 ---
 #### 1.安装putty
 sudo apt-get intsall putty
